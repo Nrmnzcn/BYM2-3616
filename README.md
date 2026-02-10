@@ -1,2 +1,1 @@
-# BYM2-3616
-Yapay Zeka Dersi ve Laboratuvarı Ders İçerikleri
+İskenderun Teknik Üniversitesi, Mühendislik ve Doğa Bilimleri Fakültesi Biyomedikal Mühendisliği bölümünde verilen "Yapay Zeka (BYM2-3616) ve Yapay Zeka Laboratuvarı (BYM2-3618)" dersine ait ders notlarını içermektedir.
